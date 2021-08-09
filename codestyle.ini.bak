@@ -1,3 +1,5 @@
+configure/backups
+
 [codestyle]
 indentation = True
 edge_line = True
